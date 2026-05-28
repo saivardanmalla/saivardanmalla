@@ -1,5 +1,5 @@
 <!--Banner-->
-![SumitSartale Banner Image](./banner.png)
+![Malla Sai Vardan Banner Image](./Banner.png)
 
 <!--Night Owl image-->
 <div>
