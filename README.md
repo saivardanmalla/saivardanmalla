@@ -1,5 +1,5 @@
 <!--Banner-->
-![SumitSartale Banner Image](./banner.png)
+![Malla Sai Vardan Banner Image](./banner.png)
 
 <!--Night Owl image-->
 <div>
@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sumit Sartale!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Malla Sai Vardan!
 *Data Scientist & AI Engineer*
 <br />
 
@@ -196,15 +196,15 @@
 <img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
+<a href="https://www.instagram.com/sai_vardan.malla" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.github.com/Kiran1689" target="_blank">
+<a href="https://www.github.com/saivardanmalla" target="_blank">
 <img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+<a href="https://www.linkedin.com/in/malla-sai-vardan/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
@@ -214,10 +214,7 @@
 </div>
 <br/>
 
-<!--Buy me a coffee-->
-<div align="center">
-<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
+
 
 <!--Footer-->
 <p align="center">
