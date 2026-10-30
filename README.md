@@ -1,222 +1,83 @@
-<!--Banner-->
-![Malla Sai Vardan Banner Image](./banner.png)
+<!-- GitHub Profile README for Malla Sai Vardan --><div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Malla+Sai+Vardan;AI%2FML+%26+Software+Developer;Building+useful+AI-powered+applications" alt="Typing introduction" />
+  <br />
+  <p>
+    <a href="https://saivardanportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/malla-sai-vardan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/saivardanmalla"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=saivardanmalla&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile views" />
+</div>👨‍💻 About Me
+I'm Malla Sai Vardan, a 3rd-year Computer Science and Engineering student at RV Institute of Technology (RVIT), Chebrolu, Andhra Pradesh. I enjoy developing practical software and AI-powered applications that solve real-world problems.
+- 🤖 Interested in Artificial Intelligence, Machine Learning, Generative AI, and LLM applications.
+- 🐍 Strong interest in Python development, problem-solving, and backend engineering.
+- 🌐 Also interested in full-stack development and building useful web applications.
+- 🚀 Enjoy experimenting with new technologies, building projects, and continuously improving my skills.
+- 🏆 1st Prize at the Reckon 2K26 Ideathon for an AI-based disease prediction concept.
+- 🌐 Explore my work: saivardanportfolio.netlify.app.
+🛠️ Skills & Technologies
+Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c" alt="Python, Java, C" />
+</p>AI, Machine Learning & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn" alt="Python and scikit-learn" />
+  <img src="https://img.shields.io/badge/LLMs-Applications-412991?style=for-the-badge" alt="LLM applications" />
+  <img src="https://img.shields.io/badge/RAG-Concepts-0A8754?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Prompt-Engineering-6C5CE7?style=for-the-badge" alt="Prompt engineering" />
+</p>Web & Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,fastapi,tailwind" alt="Web and backend technologies" />
+</p>Databases & Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,git,github,vscode" alt="Databases and developer tools" />
+</p>🚀 Featured Projects
+1. LLM GPU Cost Optimizer – Smart Model Routing & Prompt Caching Simulator
+An application for analyzing LLM workloads and exploring ways to reduce inference costs through model-routing and prompt-caching simulations.
+- Analyze LLM workload and estimate GPU/inference costs.
+- Compare model-routing strategies and simulate prompt caching.
+- Explore analytics through an interactive dashboard.
+- Tech: Python, FastAPI, Next.js, React, PostgreSQL, SQLAlchemy, Redis, Celery, pgvector, scikit-learn/XGBoost, and tiktoken.
+<p>
+  <a href="https://llm-gpu-cost-optimizer-smart-model-f3ss.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-Open-2ea44f?style=for-the-badge&logo=render&logoColor=white" alt="Live demo" /></a>
+  <a href="https://github.com/saivardanmalla/LLM-GPU-Cost-Optimizer-Smart-Model-Routing-Prompt-Caching-Simulator_System"><img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+</p>2. University Scheduler
+A scheduling application concept focused on generating and managing university schedules while preventing conflicts involving faculty, rooms, laboratories, and capacity constraints.
+- Designed around timetable constraints such as room availability, lab capacity, faculty qualifications, and workload.
+- Includes spreadsheet data handling and timetable-validation workflows.
+- Tech: Next.js, React, Tailwind CSS, JavaScript, XLSX/CSV processing, and Tesseract.js.
+3. Medico Overseas
+A web application project built for the overseas education/study-abroad domain.
+- Live application: medico-overseas-sai.vercel.app
+- Source code: Medico__Overseas
+More projects and updates are available on my GitHub profile and portfolio.
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Malla Sai Vardan!
-*Data Scientist & AI Engineer*
-<br />
-
-<!--Start Intro-->
-<p align="left">I am a <strong>Data Scientist</strong> and <strong>AI Engineer</strong> with a deep passion for building intelligent systems, Agentic AI pipelines, and data-driven applications. I love working with Python, Machine Learning, Deep Learning, LLMs, Agentic AI Frameworks, and Data Visualization.</p>
-
-- ✨ Student of life :)
-- 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
-- 🤖 Passionate about **Agentic AI**, LLM systems, and building AI-powered real-world applications.
-- 🧠 Deep interest in **Data Science**, ML model development, and advanced AI research.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://saivardanportfolio.netlify.app/) for more details about me.
-<!--End Intro-->
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="SumitSartale" style="padding-right:20px;" />
-</p>
-
----
-
-<!--Languages and Tools Section-->
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
-
-<h3 align="left">🧠 Data Science & AI Skills</h3>
-<ul align="left">
-  <li><strong>Data Science:</strong> Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Statistical Analysis, EDA, Feature Engineering</li>
-  <li><strong>Machine Learning & Deep Learning:</strong> Supervised/Unsupervised Learning, Neural Networks, CNNs, RNNs, Transformers, PyTorch, TensorFlow, Keras</li>
-  <li><strong>Agentic AI:</strong> LangChain, LangGraph, CrewAI, AutoGen, LlamaIndex, OpenAI Agents SDK, MCP (Model Context Protocol), RAG Pipelines, Multi-Agent Systems</li>
-  <li><strong>LLMs & Generative AI:</strong> Prompt Engineering, Fine-tuning, OpenAI API, Anthropic Claude API, Hugging Face, Vector Databases (Pinecone, Chroma, FAISS)</li>
-  <li><strong>AI Projects & MLOps:</strong> Model Deployment, FastAPI, Docker, MLflow, Streamlit, Gradio, AWS SageMaker</li>
-  <li><strong>Full Stack:</strong> React.js, Node.js, Django, REST APIs, PostgreSQL, MongoDB</li>
-</ul>
-
-<h3 align="left">📚 Current Learning</h3>
-<ul align="left">
-  <li>Building advanced <strong>Agentic AI</strong> systems using LangGraph, CrewAI, and AutoGen.</li>
-  <li>Deepening expertise in <strong>LLM fine-tuning</strong> and model alignment techniques.</li>
-  <li>Exploring <strong>MLOps</strong> best practices and scalable AI infrastructure on AWS & Azure.</li>
-  <li>Researching <strong>Multi-Agent collaboration frameworks</strong> and autonomous AI pipelines.</li>
-</ul>
-
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa">🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖</a></li>
-  <li><a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥Pulstack: Deploy your static site to S3 or GitHub in &lt;1 min🙂</a></li>
-  <li><a href="https://dev.to/dev_kiran/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5">I Tried Out Qodo's New Embed Model Qodo-Embed-1🤯</a></li>
-</ul>
-<br />
-<br />
-<br />
-<br />
-
----
-
-<!--Agentic AI Frameworks Section-->
-<h2 align="center">🤖 Aɢᴇɴᴛɪᴄ AI & Fʀᴀᴍᴇᴡᴏʀᴋs</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP_Protocol-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-FF9500?style=for-the-badge&logoColor=white" />
-</p>
-
-<!--Data Science Stack Section-->
-<h2 align="center">📊 Dᴀᴛᴀ Sᴄɪᴇɴᴄᴇ Sᴛᴀᴄᴋ</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
----
-
-<!--Trophies Section-->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/daytonaio/daytona">
-    <img
-      src="https://api.vaunt.dev/v1/github/entities/Kiran1689/achievements?format=svg&limit=6"
-      width="400"
-    />
-  </a>
-</p>
-<br />
-
-<!--Github stats Table-->
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Kiran1689&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Kiran1689&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=Kiran1689&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
-
-
-</div>
-
----
-
-<!--Dynamic Quote card updates everyday at 12 PM-->
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=Integrity%20is%20the%20ability%20to%20stand%20by%20an%20idea.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
----
-
-<!--Contact Section-->
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+🏆 Achievements
+- 🥇 1st Prize – Ideathon, Reckon 2K26, RV Institute of Technology (23–24 March 2026), for the idea AI in Disease Prediction Revolutionary System.
+- 🎓 Innovation Ambassador – IA Foundation Level, AICTE/IIC, RVIT (2024–25).
+- 💡 Participated in a Generative AI workshop at IIT Hyderabad, conducted by The Growth Ninja.
+📜 Certifications & Learning
+- NPTEL – Core Java: 67%.
+- NPTEL – Quantum Computing and Qiskit: 4-week course certificate.
+- Infosys Springboard – Young Python Professional / Programming Fundamentals using Python – Part 1 (8 October 2025).
+📚 Currently Exploring
+- Machine Learning and practical AI application development.
+- Generative AI, LLM application architecture, embeddings, and Retrieval-Augmented Generation (RAG).
+- Backend development, REST APIs, and database-backed applications.
+- Building reliable, useful full-stack products.
+📊 GitHub Statistics
 <div align="center">
-
-<a href="mailto:mallasaivardan@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="ssartale6@gmail.com" style="margin-bottom: 5px;" />
-</a>
-
-<a href="" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/sai_vardan.malla" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.github.com/saivardanmalla" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/malla-sai-vardan/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://dev.to/dev_kiran" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
-</a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saivardanmalla&show_icons=true&rank_icon=github&hide_border=true" alt="Malla Sai Vardan's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivardanmalla&layout=compact&hide_border=true" alt="Most used programming languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=saivardanmalla&hide_border=true" alt="GitHub contribution streak" />
+</div>🤝 Connect With Me
+<div align="center">
+  <a href="mailto:mallasaivardan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/malla-sai-vardan/"><img src="https://img.shields.io/badge/LinkedIn-Malla%20Sai%20Vardan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/saivardanmalla"><img src="https://img.shields.io/badge/GitHub-saivardanmalla-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://saivardanportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.instagram.com/sai_vardan.malla"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</div><div align="center">
+  <i>“Keep learning, keep building, and turn ideas into meaningful solutions.”</i>
 </div>
-<br/>
-
-
-
-<!--Footer-->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
